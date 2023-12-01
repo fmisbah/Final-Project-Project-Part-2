@@ -1,5 +1,5 @@
 # Part 2: Story Draft and User Research
-Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/TSwD-Final-Project/)), I created a draft of the story using Shorthand, which can be viewed [here].(https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
+Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/TSwD-Final-Project/), I created a draft of the story using Shorthand, which can be viewed [here](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
 
 ## User Research
 To gather valuable feedback on my story draft, I conducted interviews from people that I believe represent the audience I hope to reach with my story. The goal was to gather actionable insights that could help me make my story more engaging and informative. Although I created the story with the general public in mind, I believe it would be most effectively delivered to policy students and healthcare professionals. Fortunately, at Heinz, I was able to find many experienced and talented graduate students who have worked at the intersection of policy, management and healthcare. All three of them are between the ages of 25-30.
