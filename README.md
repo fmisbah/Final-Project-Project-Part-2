@@ -1,5 +1,5 @@
 # Part 2: Story Draft and User Research
-Using the outline for my story and the sketches from [Part 1](https://github.com/fmisbah/TSwD-Final-Project/tree/main), I created a draft of the story using Shorthand, which can be viewed [here](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
+Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/TSwD-Final-Project/)), I created a draft of the story using Shorthand, which can be viewed [here].(https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
 
 ## User Research
 To gather valuable feedback on my story draft, I conducted interviews from people that I believe represent the audience I hope to reach with my story. The goal was to gather actionable insights that could help me make my story more engaging and informative. Although I created the story with the general public in mind, I believe it would be most effectively delivered to policy students and healthcare professionals. Fortunately, at Heinz, I was able to find many experienced and talented graduate students who have worked at the intersection of policy, management and healthcare. All three of them are between the ages of 25-30.
@@ -20,6 +20,7 @@ Student 2: The goals should be elaborated into actionable policy recommendations
 
 ## Findings
 Some of the most valuable findings that I gathered from the interviews are:
+
 1) The story has a sentimental appeal because everyone has elderly loved ones and wish for their well-being. This has motivated me to end the story with an effective call-to-action that motivates the audience to advocate for the rights and protection of our elderly population.
 2) The visualizations can be made more impactful with a little bit of tweaking. I like Student 2's recommendation of displaying the contrasting information about the elderly population's disproportionate contribution to national healthcare expensitures into one single visualization.
 
