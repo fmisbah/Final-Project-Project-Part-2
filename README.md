@@ -12,17 +12,23 @@ Student 1: The story was quite clear and concise, with a nice flow from the prob
 
 Student 2: Yes, I think it was developed nicely.
 
+Student 3: Yes, I think it started more broadly idea but became focused as the story progressed. 
+
 **Q2) What resonated with you about the idea?**
 
 Student 1: The story of Anna from Pittsburgh is a nice way to humanize the issue of America’s aging population and almost everyone can relate to the story because of someone they know or are related to.
 
 Student 2: I appreciate that the story discusses the quality of life of elderly people and presents a serious case for their protection and well-being. Most humans have elderly loved ones but their care and well-being is a subject that is largely neglected.
 
+Student 3: The plight of elder people with regards not recieving the attention and care that they need. I also really liked the story arc of Ms. Anna. 
+
 **Q3) What is something you liked about it?**
 
 Student 1: I like how the story frames the question of whether American seniors are actually living better even if they are living longer? It builds curiosity and invites the reader to explore the story further.
 
 Student 2: I think the proposed goals are well-informed and the visualizations are simple and clear.
+
+Student 3: I think the fonts should be consistent. The fonts don't seem coherent. And there should be more emphasis on the last section because that is your call-to-action.
 
 **Q4) What is something that could be improved or added?** 
 
